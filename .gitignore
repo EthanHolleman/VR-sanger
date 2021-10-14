@@ -1,0 +1,5 @@
+.snakemake/
+*.pyc
+*.err
+*.out
+logs/
